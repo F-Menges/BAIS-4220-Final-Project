@@ -14,7 +14,7 @@ The original statewide dataset spans from 2012 to the present, but we filtered i
 - Is there a revenue difference between stores located near the university campus and stores not located near the university campus? 
 
 ## Instruction to Run the Application
-1. Click this [link](https://proud-island-051e4ba10.6.azurestaticapps.net) to view the project and our analysis of our findings
+1. Click this [link](https://proud-island-051e4ba10.6.azurestaticapps.net) to view the project and analysis of our findings
 2. Or download Adv_Database_Project_-_Jenna_Felix_Jet.html
 
 ## Technical Skills Gained 
